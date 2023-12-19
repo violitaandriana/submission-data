@@ -6,7 +6,7 @@ I used Brazilian E-Commerce Public Dataset by Olist from Kaggle, for more inform
 ## Installation
 1. Download this repository & unzip
 2. Create new environment
-> pip install pandas scipy matplotlib seaborn jupyter streamlit babel
+> pip install pandas matplotlib seaborn jupyter streamlit babel
 3. Use the new environment
 > source .venv/bin/activate
 4. Run streamlit app
