@@ -7,8 +7,7 @@ I used Brazilian E-Commerce Public Dataset by Olist from Kaggle, for more inform
 1. Download this repository & unzip.
 2. Create new environment.
 > pip install pandas scipy matplotlib seaborn jupyter streamlit babel
-Check the streamlit by
-> streamlit hello
 3. Use the new environment
 > source .venv/bin/activate
+4. Run streamlit app
 > streamlit run dashboard/dashboard.py
