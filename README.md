@@ -11,7 +11,5 @@ I used Brazilian E-Commerce Public Dataset by Olist from Kaggle, for more inform
 > python -m venv .venv
 3. Use the new environment
 > source .venv/bin/activate
-4. Run streamlit app
-> streamlit run .\dashboard\dashboard.py
-
-!(https://i.ibb.co/XtBP9hn/powershell.jpg)
+4. Go to "dashboard" directory & run streamlit app
+> streamlit run dashboard.py
