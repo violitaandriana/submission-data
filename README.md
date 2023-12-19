@@ -14,3 +14,4 @@ I used Brazilian E-Commerce Public Dataset by Olist from Kaggle, for more inform
 4. Run streamlit app
 > streamlit run .\dashboard\dashboard.py
 
+!(https://i.ibb.co/XtBP9hn/powershell.jpg)
