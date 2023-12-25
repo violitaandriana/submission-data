@@ -40,7 +40,7 @@ def create_review_score_df(df):
 #     rfm_df = df.groupby(by="customer_id")
 
 # Load main_data.csv
-all_df = pd.read_csv("dashboard/main_data.csv")
+all_df = pd.read_csv("main_data.csv")
 
 # Sidebar
 with st.sidebar:
